@@ -6,15 +6,18 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Albert Villanova del Moral
+#email: albert.villanova@example.com
+description: >-
+  Artificial Intelligence, Machine Learning and Data Science consultant.
 github_username: usernametmp
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "usernametmp.github.io"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://usernametmp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://usernametmp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -39,8 +42,11 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: avillanovamoral
+    github: albertvillanova
+    linkedin: albertvillanova
+    stackoverflow: "4274763"
+    avatar: https://www.gravatar.com/avatar/aebfe2fac5032399a4c8be73b126d5e6
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -58,7 +64,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: UA-177613528-1
 
 exclude:
   - docker-compose.yml
