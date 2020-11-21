@@ -47,7 +47,11 @@ minima:
     github: albertvillanova
     linkedin: albertvillanova
     stackoverflow: "4274763"
-    avatar: https://www.gravatar.com/avatar/aebfe2fac5032399a4c8be73b126d5e6
+    # NO: avatar: https://www.gravatar.com/avatar/aebfe2fac5032399a4c8be73b126d5e6
+    # facebook: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
 
 # Set this to true to get LaTeX math equation support
 use_math: 
