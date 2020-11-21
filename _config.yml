@@ -8,6 +8,9 @@
 
 title: Albert Villanova del Moral
 #email: albert.villanova@example.com
+author:
+  name: Albert Villanova del Moral
+  # email: your-email@domain.com
 description: >-
   Artificial Intelligence, Machine Learning and Data Science consultant.
 github_username: usernametmp
